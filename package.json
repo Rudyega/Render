@@ -4,6 +4,7 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "nodemon src/index.ts"
+    "start": "node index.ts"
   },
   "keywords": [],
   "author": "",
